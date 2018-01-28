@@ -104,4 +104,4 @@ Here are APIs list:
 - CommonApi for static way
 
 
-Project on [Github](https://github.com/changsoul/wudaosoft-weixin-sdk)!
+Project on [GitHub](https://github.com/changsoul/wudaosoft-weixin-sdk)!
