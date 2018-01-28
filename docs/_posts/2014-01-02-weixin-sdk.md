@@ -7,9 +7,9 @@ Wudaosoft Weixin Official SDK for java.
 
 ## Download
 
-- http://repo1.maven.org/maven2/com/wudaosoft/wudaosoft-weixin-sdk/  
+- <http://repo1.maven.org/maven2/com/wudaosoft/wudaosoft-weixin-sdk/>
 - [the latest JAR][1]  
-[1]: https://search.maven.org/remote_content?g=com.wudaosoft&a=wudaosoft-weixin-sdk&v=LATEST
+[1]: <https://search.maven.org/remote_content?g=com.wudaosoft&a=wudaosoft-weixin-sdk&v=LATEST>
 
 ## Maven
 
@@ -104,4 +104,4 @@ Here are APIs list:
 - CommonApi for static way
 
 
-Project via [Github](https://github.com/changsoul/wudaosoft-weixin-sdk)!
+Project on [Github](https://github.com/changsoul/wudaosoft-weixin-sdk)!
