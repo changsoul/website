@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               无道软件工作室
 tagline:             Wudao Software Studio
-url:                 http://www.wudaosoft.com
+url:                 http://wudaosoft.com
 paginate:            1
 baseurl:             ""
 
