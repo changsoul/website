@@ -102,6 +102,7 @@ Here are APIs list:
 - UserApi
 - UserGroupApi
 - CommonApi for static way
+- ResponseMsgBuilder for static way
 
 
-Project on [GitHub](https://github.com/changsoul/wudaosoft-weixin-sdk)!
+Project on [GitHub](https://github.com/changsoul/wudaosoft-weixin-sdk).
