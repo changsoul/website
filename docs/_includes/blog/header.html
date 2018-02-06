@@ -7,7 +7,7 @@
   {%- include snippets/get-nav-url.html -%}
   {%- if site.title -%}
     <a class="site-title" title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">{{ site.title }}</a>
-    <small>{{ site.description }}</small>
+    <small class="site-title-small">{{ site.description }}</small>
   {%- endif -%}
   <!-- <div class="site-logo">
     {%- include logo/logo.svg -%}
