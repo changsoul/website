@@ -1,6 +1,10 @@
 ---
 layout: post
 title: 微信公众号SDK
+tags:
+  - 微信公众号SDK
+  - weixin
+  - wechat
 ---
 
 Wudaosoft Weixin Official SDK for java.
@@ -9,8 +13,8 @@ Wudaosoft Weixin Official SDK for java.
 
 - <http://repo1.maven.org/maven2/com/wudaosoft/wudaosoft-weixin-sdk/>
 - [the latest JAR][1]  
-[1]: <https://search.maven.org/remote_content?g=com.wudaosoft&a=wudaosoft-weixin-sdk&v=LATEST>
-<!--more-->
+[1]: <https://search.maven.org/remote_content?g=com.wudaosoft&a=wudaosoft-weixin-sdk&v=LATEST><!--more-->
+
 ## Maven
 
 ```xml
