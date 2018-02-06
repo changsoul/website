@@ -18,9 +18,9 @@
     display: inline-block;
     font-size: $h3-font-size;
   }
-  .site-title-small {
+  small {
     font-size: $h3-font-size * 0.75;
-    font-weight: 400;
+    font-weight: $base-font-weight;
     color: #c0c0c0;
     letter-spacing: 0;
   }
