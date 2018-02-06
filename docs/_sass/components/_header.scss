@@ -18,6 +18,12 @@
     display: inline-block;
     font-size: $h3-font-size;
   }
+  .site-title small {
+    font-size: $h3-font-size * 0.75;
+    font-weight: 400;
+    color: #c0c0c0;
+    letter-spacing: 0;
+  }
   &>nav {
     display: block;
     float: right;
