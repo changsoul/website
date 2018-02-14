@@ -16,6 +16,12 @@
           margin-bottom: $spacing-unit;
         }
       }
+      &>a, a:visited {
+        color: #0366d6;
+      }
+      &>a {
+        font-weight: normal;
+      }
     }
   }
   .col-2 {
