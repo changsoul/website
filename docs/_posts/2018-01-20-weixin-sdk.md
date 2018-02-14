@@ -7,13 +7,13 @@ tags:
   - wechat
 ---
 
+
 Wudaosoft Weixin Official SDK for java.
 
 ## Download
 
-- <http://repo1.maven.org/maven2/com/wudaosoft/wudaosoft-weixin-sdk/>
-- [the latest JAR][1]  
-[1]: <https://search.maven.org/remote_content?g=com.wudaosoft&a=wudaosoft-weixin-sdk&v=LATEST><!--more-->
+- [maven](http://repo1.maven.org/maven2/com/wudaosoft/wudaosoft-weixin-sdk/)
+- [the latest JAR](https://search.maven.org/remote_content?g=com.wudaosoft&a=wudaosoft-weixin-sdk&v=LATEST)<!--more-->
 
 ## Maven
 
