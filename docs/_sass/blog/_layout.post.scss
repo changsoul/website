@@ -22,6 +22,9 @@
       a {
         font-weight: normal;
       }
+      a:-webkit-any-link {
+        color: -webkit-link;
+      }
     }
   }
   .col-2 {
