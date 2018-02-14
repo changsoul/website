@@ -16,7 +16,7 @@
     border-bottom-width: 2px;
     margin-bottom: $content-gap;
   }
-  &>a {
+  a {
     font-weight: normal;
     @include link-text-colors( #0366d6, $main-color-1);
   }
