@@ -2,7 +2,7 @@
   <div class="main">
     <aside> {%- include components/follow-me.html -%} </aside>
     <footer class="site-info">
-      <p>&copy; <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y" }}</time> {{ site.title }}. All rights reserved.</p>
+      <p>&copy; {{ page.date | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
       <p>Powered by <a href="http://www.geilipay.com/">Geilipay.com</a>.</p>
     </footer>
   </div>
